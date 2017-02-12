@@ -26,6 +26,7 @@ Example Use
 -----------
 
 .. code-block:: pycon
+
     >>> from rraw import Reddit
     >>> reddit = Reddit(client_id='YOUR_CLIENT_ID',
                         client_secret='YOUR_CLIENT_SECRET',
